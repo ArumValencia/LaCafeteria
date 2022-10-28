@@ -1,2 +1,2 @@
 # LaCafeteria
-pagina web hecha con sass y gulp
+PaginaWeb de una Cafeteria hecha con GULP Y SASS 
